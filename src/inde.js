@@ -27,10 +27,10 @@ we.addEventListener("click", showimage );
 
 // dding eventlistener the close button
 function showitems(){
-//     let deimg = document.querySelector(".de");
-//  deimg.style.display = "block";
-//  let ma = document.querySelector(".ma");
-//  ma.style.display = "block";
+    let deimg = document.querySelector(".de");
+ deimg.style.display = "None";
+ let ma = document.querySelector(".ma");
+ ma.style.display = "None";
 }
 
 let ma1 = document.querySelector(".ma");
